@@ -1,0 +1,25 @@
+{
+  "name": "online__restaurants",
+  "version": "1.0.0",
+  "description": "online food ordering app",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel app.html",
+    "build": "parcel build app.html"
+  },
+  "author": "SURAJ KUMAR MOURYA",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "gh-pages": "^5.0.0",
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.24",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0"
+  }
+}
